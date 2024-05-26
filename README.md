@@ -24,6 +24,7 @@ Built With
 Languages:
 
 Others
+javascript
 HTML
 CSS
 
